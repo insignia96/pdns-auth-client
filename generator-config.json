@@ -1,0 +1,5 @@
+{
+    "packageName": "pdns_auth_client",
+    "packageVersion": "1.0.1",
+    "library": "urllib3"
+}
